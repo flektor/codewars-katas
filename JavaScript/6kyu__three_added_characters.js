@@ -1,6 +1,6 @@
 /*
-Title: Calculating with Functions
-Rank: 5 kyu
+Title: Three added Characters
+Rank: 6 kyu
 
 Description:
 Given two strings, the first being a random string and the second being the same as the first, but with three added characters somewhere in the string (three same characters),
