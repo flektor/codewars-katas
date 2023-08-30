@@ -1,7 +1,9 @@
 /*
 Title: Simple SQL Engine
-Rank: 3 kyu
+Rank: 2 kyu
 Link: https://www.codewars.com/kata/5451712ea8a825a74f000863/train/javascript
+
+#SQL, #PARSING, #SETS, #DATABASES, #ALGORITHMS
 
 In this kata you will create an object which can execute a query written in a simplified form of Structured Query Language (SQL) against a simple database.
 
@@ -120,6 +122,9 @@ WHERE movies.cert <= 15
 * SELECT *
  { movies.title: "The Matrix", actors.name: "Keanu Reeves" }
  { movies.title: "The Matrix", actors.name: "Carrie-Anne Moss" }
+
+ 
+#SQL, #PARSING, #SETS, #DATABASES, #ALGORITHMS
 
  */
 
