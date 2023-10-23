@@ -1,6 +1,6 @@
 # CodeWars Katas Solutions
 
-<img src="https://www.codewars.com/users/flektor/badges/large" alt="Alt text" width="full" />
+[<img src="https://www.codewars.com/users/flektor/badges/large" alt="Alt text" width="full" />](https://www.codewars.com/users/flektor)
 
 This repository contains my solutions to various CodeWars katas. Please note that the solutions
 here are not focused on clean code; rather, they are intended to provide quick and dirty solutions
